@@ -7,7 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi there, I'm Yue ZHAO (赵越 in Chinese)! 👋
+
+😄 I am an Assistant Professor at USC Computer Science; see the latest information at my homepage.
+
+Prospective Students. We are seeking to recruit 2 Ph.D. students for Fall 2026. Applicants are required to have a few published papers in top ML, System, or NLP conferences. We also have openings for undergraduate and graduate interns, both from USC and other institutions. For all positions, please complete this Google Form: Application Form. Additionally, Ph.D. candidates are required to email me directly after submitting the form. See details at my homepage.
+
+🌱 Research Interests. My research focuses on building Robust, Trustworthy, and Scalable AI systems by addressing challenges at three distinct but connected levels: the Principle Level, the Knowledge & Generation Level, and the System Level. Through these levels, I integrate reliable detection methods, graph-based structured knowledge, generative modeling, and open-source tools to advance AI4Science, healthcare, finance, and political science.
+
+Robust and Trustworthy AI (Principle): Ensuring AI systems can detect outliers, anomalies, and out-of-distribution data to provide trust, fairness, and transparency across different domains.
+Keywords: OOD Detection, Outlier Detection, Anomaly Detection, Trustworthiness.
+
+Structured and Generative AI for Science and Applications (Knowledge): Leveraging graph-based learning to understand interconnected data and applying generative AI methods, large language models, and foundation models to address scientific challenges in drug discovery, synthetic clinical trials, and political forecasting.
+Keywords: Graph Learning, Graph Anomaly Detection, LLMs, Foundation Models, AI4Science, Drug Discovery.
+
+Scalable and Open-Source AI (System): Developing efficient tools and frameworks for automated model selection, hyperparameter optimization, and large-scale anomaly detection. As the creator of PyOD (25M+ downloads, used by NASA, Tesla, etc.), I lead 10+ open-source projects, including PyGOD, TDC, and ADBench, which collectively have earned more than 20,000 GitHub stars, accelerating AI adoption and impact.
+Keywords: Automated ML, Distributed Systems, Open-source AI, Scalability.
 
 A data-driven personal website
 ======
