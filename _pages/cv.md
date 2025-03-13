@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, George Mason University, 2021
-* B.S. in Detection, Navigation & Control, Northwestern Polytechnical University, 2011-2015
+* B.S. in Detection, Navigation & Control, Northwestern Polytechnical University, 2015
 
 Work experience
 ======
                                                                                                       
-* Fall 2024: Assistant Professor
+* 2024 - now: Assistant Professor
   * Michigan Technological University, Houghton, MI
 
 * 2023 – 2024: Postdoctoral Researcher
