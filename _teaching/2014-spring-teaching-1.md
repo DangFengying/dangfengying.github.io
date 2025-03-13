@@ -6,8 +6,9 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "MTU, ECE"
 location: "Houghton, MI"
 ---
-EACHING EXPERIENCE
+TEACHING EXPERIENCE
 ======
+
 | Role            | Course                                        | Institution | Term               |
 |-----------------|-----------------------------------------------|-------------|--------------------|
 | Lecturer  | EE 5522 - Linear Systems and Control           | MTU         | Spring 2025          |
