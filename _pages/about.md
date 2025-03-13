@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fengying Dang"
+title: "Smarter robot, Better world"
 author_profile: true
 redirect_from: 
   - /about/
