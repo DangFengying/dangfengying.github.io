@@ -24,7 +24,7 @@ author:
   avatar           : "bio-photo-dfy.png"
   name             : "Fengying Dang"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor, Engineering @ MTU"
+  bio              : "Assistant Professor, Robotics and Control @ MTU"
   location         : "Houghton, MI, USA"
   employer         : "Michigan Technological University"
   uri              : # URL
@@ -228,17 +228,17 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: ""
