@@ -23,7 +23,7 @@ Work experience
 * 2023 – 2024: Postdoctoral Researcher
   * University of Michigan (UMTRI), Ann Arbor, MI
 
-* 2023 – 2024: Postdoctoral Researcher
+* 2021 – 2022: Postdoctoral Researcher
   * Michigan State University, East Lansing, MI
 
 <!--  
