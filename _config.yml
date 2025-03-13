@@ -21,7 +21,7 @@ repository               : "DangFengying/DangFengying.github.io" #"academicpages
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-dfy.png"
+  avatar           : "bio-photo-dfy.jpg"
   name             : "Fengying Dang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Robotics and Control @ MTU"
