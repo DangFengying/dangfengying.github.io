@@ -4,7 +4,6 @@ collection: teaching
 type: "undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "MTU, ECE"
-date: 
 location: "Houghton, MI"
 ---
 
