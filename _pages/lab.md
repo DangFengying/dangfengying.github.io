@@ -10,7 +10,7 @@ Welcome to our lab! Below are the profiles of the team members contributing to c
 
 {% for member in site.data.team %}
   <div class="team-member">
-    <img src="{{ '/assets/images/' | append: member.image }}" alt="{{ member.name }}" class="team-member-image" />
+    <img src="{{ '/images/' | append: member.image }}" alt="{{ member.name }}" class="team-member-image" />
     <h3>{{ member.name }}</h3>
     <p><strong>{{ member.role }}</strong></p>
     <p>{{ member.bio }}</p>
