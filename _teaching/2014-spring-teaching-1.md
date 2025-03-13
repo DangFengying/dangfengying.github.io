@@ -6,6 +6,7 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "MTU, ECE"
 location: "Houghton, MI"
 ---
+
 | Role            | Course                                        | Institution | Term               |
 |-----------------|-----------------------------------------------|-------------|--------------------|
 | Guest Lecturer  | ME 851 - Linear Systems and Control           | MSU         | Fall 2022          |
