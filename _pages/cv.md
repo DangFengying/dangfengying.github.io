@@ -25,6 +25,7 @@ Work experience
 
 * 2023 – 2024: Postdoctoral Researcher
   * Michigan State University, East Lansing, MI
+
 <!--  
 Skills
 ======
@@ -35,6 +36,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 -->
+
 Publications
 ======
 Journal Articles.………………………………………………………………………...………………...................
