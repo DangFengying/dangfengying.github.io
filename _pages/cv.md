@@ -44,6 +44,7 @@ Journal Articles.………………………………………………………
 2.	F. Dang, D. Chen, Y. Lu, Z. Li, Y Zhen, DeepCottonWeeds (DCW): A Novel Benchmark of YOLO Object Detectors for Weed Detection in Cotton Production Systems, Computers and Electronics in Agriculture 205, (2023)107655
 3.	F. Dang, S. Nasreen and F. Zhang, “DMD-Based Background Flow Sensing for AUVs in Flow Pattern Changing Environments”, IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 5207-5214, July 2021
 4.	F. Dang and F. Zhang, "Distributed Flow Estimation for Autonomous Underwater Robots Using POD-based Model Reduction," Journal of Dynamic Systems, Measurement, and Control, Special issue on Unmanned Mobile Systems, 141.7 (2019): 071010
+
 Conference Articles……………………………………………………………………………………………...
 1.	F. Dang, D. Chen, Y. Lu, Z. Li, Y. Zheng, “DeepCottonWeeds (DCW): A Novel Benchmark of YOLO Object Detectors for Weed Detection in Cotton Production Systems”, 2022 ASABE Annual International Meeting  2200214.(doi:10.13031/aim.202200214)
 2.	Q Liu, F Dang, X Wang, X Ren, Autonomous Highway Merging in Mixed Traffic Using Reinforcement Learning and Motion Predictive Safety Controller, 25th IEEE Intelligent Transportation Systems Conference (ITSC 2022), October 8-12, Macau, China
