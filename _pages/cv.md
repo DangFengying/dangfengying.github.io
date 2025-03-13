@@ -25,7 +25,7 @@ Work experience
 
 * 2023 – 2024: Postdoctoral Researcher
   * Michigan State University, East Lansing, MI
-  
+<!--  
 Skills
 ======
 * Skill 1
@@ -34,7 +34,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+-->
 Publications
 ======
 Journal Articles.………………………………………………………………………...………………...................
@@ -50,7 +50,7 @@ Conference Articles……………………………………………………�
 5.	F. Dang and F. Zhang, ''DMD-Based Distributed Flow Sensing For Bio-Inspired Autonomous Underwater Robots,'' ASME Dynamic Systems and Control Conference (DSCC), Atlanta, GA, Paper DSCC2018-9113 (8 pp), 2018
 6.	F. Dang and F. Zhang, ''Distributed Flow Estimation for Autonomous Underwater Robots Using POD-based Model Reduction,'' the 57rd IEEE Conference on Decision and Control (CDC), Miami Beach, FL, pp. 4453-4458, 2018
 7.	F. Dang and F. Zhang, ''Identification of Hydrodynamic Coefficients of a Robotic Fish Using Improved Extended Kalman Filter,'' ASME Dynamic Systems and Control Conference (DSCC), Tysons Corner, VA, Paper 2017-5385 (9 pp), 2017
-
+<!--
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -70,3 +70,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
