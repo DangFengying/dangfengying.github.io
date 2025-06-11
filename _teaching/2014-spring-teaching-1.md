@@ -8,8 +8,9 @@ location: "Houghton, MI"
 ---
 | Role            | Course                                        | Institution | Term               |
 |-----------------|-----------------------------------------------|-------------|--------------------|
-| Lecturer  | EE 5522 - Linear Systems and Control           | MTU         | Spring 2025          |
-| Lecturer  | EE 3261 - Digital Image Processing           | MTU         | Fall 2024          |
+| Lecturer  | EE 5522 - Digital Image Processing           | MTU         | Fall 2025          |
+| Lecturer  | EE 3261 - Linear Systems and Control         | MTU         | Spring 2025        |
+| Lecturer  | EE 5522 - Digital Image Processing           | MTU         | Fall 2024          |
 | Guest Lecturer  | ME 851 - Linear Systems and Control           | MSU         | Fall 2022          |
 | Guest Lecturer  | ECE884 - Neural Networks and Deep Learning    | MSU         | Fall 2022          |
 | Guest Lecturer  | ECE 521 - Linear Systems and Control          | GMU         | Spring 2020        |
