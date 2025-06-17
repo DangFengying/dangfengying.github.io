@@ -35,7 +35,8 @@ Doctoral Students
 ======
 | Name            | Office                                   | Email       | Work               |
 |-----------------|------------------------------------------|-------------|--------------------|
-| B  | EERC 501           |  @mtu.edu       | b          |
+| BBBBBBB   | EERC 501           |  BBBBBBB@mtu.edu       | BBBBBBB          |
+| Lecturer  | EE 5522 - Digital Image Processing           | MTU         | Fall 2025          |
 
 Masters Students
 ======
