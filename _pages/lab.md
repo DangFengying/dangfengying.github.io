@@ -33,6 +33,7 @@ Welcome to our lab! Below are the profiles of the team members contributing to c
 
 Doctoral Students
 ======
+
 | Name            | Office                                   | Email       | Work               |
 |-----------------|------------------------------------------|-------------|--------------------|
 | BBBBBBB   | EERC 501           |  BBBBBBB@mtu.edu       | BBBBBBB          |
@@ -40,6 +41,7 @@ Doctoral Students
 
 Masters Students
 ======
+
 | Name            | Office                                   | Email       | Work               |
 |-----------------|------------------------------------------|-------------|--------------------|
 | B  | EERC 501           |  @mtu.edu       | b          |
