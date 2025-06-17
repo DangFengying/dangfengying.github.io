@@ -17,7 +17,21 @@ Welcome to our lab! Below are the profiles of the team members contributing to c
   </div>
 {% endfor %}
 
+
+Doctoral Students
+======
+| Name            | Office                                   | Email | Work               |
+|-----------------|-----------------------------------------------|-------------|--------------------|
+| B  | EERC 501           |  @mtu.edu       | b          |
+
+Masters Students
+======
+| Name            | Office                                   | Email | Work               |
+|-----------------|-----------------------------------------------|-------------|--------------------|
+| B  | EERC 501           |  @mtu.edu       | b          |
+
 Alumni
+======
 | Name            | Degree/Year                                   | Company | Email               |
 |-----------------|-----------------------------------------------|-------------|--------------------|
 | Benjamin Wittrup  | MS EE 2025           | Treetown Tech LLC        | bowittru@mtu.edu          |
