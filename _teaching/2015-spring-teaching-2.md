@@ -2,7 +2,7 @@
 title: "EE3261 - Control System2"
 collection: teaching
 type: "undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "MTU, ECE"
 location: "Houghton, MI"
 ---
