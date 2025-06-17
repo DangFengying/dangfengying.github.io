@@ -17,8 +17,7 @@ Welcome to our lab! Below are the profiles of the team members contributing to c
   </div>
 {% endfor %}
 
-Education
-======
-* Ph.D in Electrical and Computer Engineering, George Mason University, 2021
-* B.S. in Detection, Navigation & Control, Northwestern Polytechnical University, 2015
-
+Alumni
+| Name            | Degree/Year                                   | Company | Email               |
+|-----------------|-----------------------------------------------|-------------|--------------------|
+| Benjamin Wittrup  | MS EE 2025           | Treetown Tech LLC        | bowittru@mtu.edu          |
