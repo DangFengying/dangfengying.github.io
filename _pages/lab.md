@@ -38,6 +38,7 @@ Doctoral Students
 |-----------------|------------------------------------------|-------------|--------------------|
 | BBBBBBB   | EERC 501           |  BBBBBBB@mtu.edu       | BBBBBBB          |
 | Lecturer  | EE 5522 - Digital Image Processing           | MTU         | Fall 2025          |
+| Lecturer  | EE 3261 - Linear Systems and Control         | MTU         | Spring 2025        |
 
 Masters Students
 ======
