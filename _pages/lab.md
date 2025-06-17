@@ -16,3 +16,9 @@ Welcome to our lab! Below are the profiles of the team members contributing to c
     <p>{{ member.bio }}</p>
   </div>
 {% endfor %}
+
+Education
+======
+* Ph.D in Electrical and Computer Engineering, George Mason University, 2021
+* B.S. in Detection, Navigation & Control, Northwestern Polytechnical University, 2015
+
