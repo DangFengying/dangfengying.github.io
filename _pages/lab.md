@@ -49,6 +49,7 @@ Masters Students
 
 Alumni
 ======
+
 | Name            | Degree/Year                                   | Company     | Email              |
 |-----------------|-----------------------------------------------|-------------|--------------------|
 | Benjamin Wittrup  | MS EE 2025           | Treetown Tech LLC        | bowittru@mtu.edu          |
