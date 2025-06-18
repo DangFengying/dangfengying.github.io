@@ -1,5 +1,5 @@
 ---
-title: "EE3261 - Control System2"
+title: "EE3261 - Control System"
 collection: teaching
 type: "undergraduate course"
 permalink: /teaching/2015-spring-teaching-2
