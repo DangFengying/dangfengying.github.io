@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Meet the Lab Members"
-permalink: /lab/
+layout: archive
+title: "Lab"
+author_profile: true
 ---
 
 # Our Team
