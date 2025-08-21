@@ -24,7 +24,7 @@ Doctoral Students
 
 | Name            | Office                                   | Email       | Work               |
 |-----------------|------------------------------------------|-------------|--------------------|
-| Md Istiak Ahammed   | EERC 501           |  mahamm2@mtu.edu       | Environment perception          |
+| Md Istiak Ahammed   | EERC 501           |  mahamm?@mtu.edu       | Environment perception          |
 
 Masters Students
 ======
@@ -38,4 +38,4 @@ Alumni
 
 | Name            | Degree/Year                                   | Company     | Email              |
 |-----------------|-----------------------------------------------|-------------|--------------------|
-| Benjamin Wittrup  | MS EE 2025           | Treetown Tech LLC        | bowittru@mtu.edu          |
+| Benjamin Wittrup  | MS EE 2025           | Treetown Tech LLC        | bowittr?@mtu.edu          |
