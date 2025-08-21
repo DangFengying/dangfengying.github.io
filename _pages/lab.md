@@ -24,7 +24,7 @@ Doctoral Students
 
 | Name            | Office                                   | Email       | Work               |
 |-----------------|------------------------------------------|-------------|--------------------|
-| BBBBBBB   | EERC 501           |  BBBBBBB@mtu.edu       | BBBBBBB          |
+| Md Istiak Ahammed   | EERC 501           |  mahamm2@mtu.edu       | Environment perception          |
 
 Masters Students
 ======
