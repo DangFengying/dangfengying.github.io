@@ -31,7 +31,8 @@ Masters Students
 
 | Name            | Office                                   | Email       | Work               |
 |-----------------|------------------------------------------|-------------|--------------------|
-| B  | EERC 501           |  @mtu.edu       | b          |
+| William Forney  | EERC 501           |  wbforney@mtu.edu   | robot design          |
+| Sharmilee Nowshin  | EERC 501        |  snowshin@mtu.edu   | robot peception       |
 
 Alumni
 ======
