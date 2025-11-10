@@ -20,7 +20,7 @@ News
 12/2025 [research] I will give a presentation on 3th International Conference on Robot Intelligence Technology and Applications, R!TA 2025
 
 11/2025 [outreach] Our lab hosted a tour to the students in local Girl Scout troops, ages 8-13 as part of the Society of Women Engineers (SWE) at Michigan Tech. Thanks to William for helping showcase our lab and robots!
-[link](http://photogzmaz.photo.store.qq.com/psc?/V10gdWHM3wakvM/TmEUgtj9EK6.7V8ajmQrEFdYVZqUMcp1nhJQ21QrB55Yk4BYq8LPQ65sBYapxirGcjYtfRM**ihLoIhDmisZBJXY0LEAr9vMlW1wjZjeEmE!/b&bo=QAawBFUIQAYBJ.k!&rf=viewer_4&t=5)
+[Image](http://photogzmaz.photo.store.qq.com/psc?/V10gdWHM3wakvM/TmEUgtj9EK6.7V8ajmQrEFdYVZqUMcp1nhJQ21QrB55Yk4BYq8LPQ65sBYapxirGcjYtfRM**ihLoIhDmisZBJXY0LEAr9vMlW1wjZjeEmE!/b&bo=QAawBFUIQAYBJ.k!&rf=viewer_4&t=5)
 
 
 10/2025 [research] I was invited to attend the 2025 NSF FRR-NRI PI Meeting. Thanks to NSF and the organizers.
