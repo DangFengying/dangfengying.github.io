@@ -25,7 +25,7 @@ News
 
 10/2025 [research] I was invited to attend the 2025 NSF FRR-NRI PI Meeting. Thanks to NSF and the organizers.
 
-10/2025 [research] Benjamin Wittrup presented his paper titled "Laser-Based Wireless Communication for Underwater Robots Using a Solar Array Detector" on IEEE Oceans Great Lake 2025. Good job, Ben! [Paper](Laser_Communication_Solar_Array.pdf)
+10/2025 [research] Benjamin Wittrup presented his paper titled "Laser-Based Wireless Communication for Underwater Robots Using a Solar Array Detector" on IEEE Oceans Great Lake 2025. Good job, Ben! [Paper](Laser_Communication_Solar_Array.pdf)[Image](http://photogzmaz.photo.store.qq.com/psc?/V10gdWHM3wakvM/TmEUgtj9EK6.7V8ajmQrEDEHI*r.0rQs6*JitvWAc.*Xyn2poRomNDHH0gYD5kNNpkzPy5wdxk0a*Wn5972E3DdVh*8A8ubq2r48np8ReSU!/b&bo=VQhABlUIQAYBFzA!&rf=viewer_4&t=5)
 
 08/2025 [research] I received the NSF Award on flow aided locallization for marine robot. Thanks, NSF!
 
