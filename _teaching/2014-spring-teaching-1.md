@@ -9,6 +9,8 @@ date: 2025-08-25
 ---
 | Role            | Course                                        | Institution | Term               |
 |-----------------|-----------------------------------------------|-------------|--------------------|
+| Lecturer  | EE 5900 - Machine Learning for Robotics      | MTU         | Fall 2026          |
+| Lecturer  | EE 3261 - Linear Systems and Control         | MTU         | Spring 2026        |
 | Lecturer  | EE 5522 - Digital Image Processing           | MTU         | Fall 2025          |
 | Lecturer  | EE 3261 - Linear Systems and Control         | MTU         | Spring 2025        |
 | Lecturer  | EE 5522 - Digital Image Processing           | MTU         | Fall 2024          |
