@@ -24,15 +24,16 @@ Doctoral Students
 
 | Name            | Office                                   | Email       | Work               |
 |-----------------|------------------------------------------|-------------|--------------------|
-| Md Istiak Ahammed   | EERC 501           |  mahamm?@mtu.edu       | Environment perception          |
+| Md Istiak Ahammed   | EERC 512           |  mahamm?@mtu.edu       | Environment perception          |
+| Md Asifuzzaman   | EERC 512           |  masifu?@mtu.edu       | Robot design and bio sensing       |
+| Tristan Hodgins   | EERC 512           |  tahodgin?@mtu.edu       | Underwater Vision          |
 
 Masters Students
 ======
 
 | Name            | Office                                   | Email       | Work               |
 |-----------------|------------------------------------------|-------------|--------------------|
-| William Forney  | EERC 501           |  wbforne?@mtu.edu   | robot design          |
-| Sharmilee Nowshin  | EERC 501        |  snowshi?@mtu.edu   | robot peception       |
+
 
 Alumni
 ======
@@ -40,3 +41,4 @@ Alumni
 | Name            | Degree/Year                                   | Company     | Email              |
 |-----------------|-----------------------------------------------|-------------|--------------------|
 | Benjamin Wittrup  | MS EE 2025           | Treetown Tech LLC        | bowittr?@mtu.edu          |
+| Eli Gruhlke  | UG EE 2026           | ???        | ???@mtu.edu          |
