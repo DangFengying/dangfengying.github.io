@@ -41,4 +41,4 @@ Alumni
 | Name            | Degree/Year                                   | Company     | Email              |
 |-----------------|-----------------------------------------------|-------------|--------------------|
 | Benjamin Wittrup  | MS EE 2025           | Treetown Tech LLC        | bowittr?@mtu.edu          |
-| Eli Gruhlke  | UG EE 2026           | ???        | ???@mtu.edu          |
+| Eli Gruhlke  | UG EE 2026           | California Eastern Laboratories (CEL)        |  ewgruhlk?@mtu.edu    |
